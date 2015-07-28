@@ -1,1 +1,1 @@
-Hola mundo estamos logrando mejoras en usar git y github :D
+hola mundo estamos logrando mejoras en usar git y github :D
